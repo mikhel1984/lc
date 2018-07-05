@@ -1,5 +1,5 @@
 
-
+-- basic transformatins
 local OPERATION, VARIABLE, NUMBER, FUNCTION = 1, 2, 3, 4
 
 local sym_base = {}
